@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-image: url('https://www.bing.com/images/search?view=detailV2&ccid=aphw%2f2f3&id=B8F9C439FB38D4B906F7C68123EC300CA058F214&thid=OIP.aphw_2f39OoM5YlZWXh3qAHaFo&mediaurl=https%3a%2f%2fwww.pngmart.com%2ffiles%2f11%2fSad-Pepe-The-Frog-Meme-PNG-Transparent-Image.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.6a9870ff67f7f4ea0ce58959597877a8%3frik%3dFPJYoAww7COBxg%26pid%3dImgRaw%26r%3d0&exph=638&expw=840&q=Memes+PNG&simid=608047007804755523&FORM=IRPRST&ck=81781FC8457219AF6D5C3F5929C0A94C&selectedIndex=18&itb=1');
+    background-repeat: no-repeat;
+}
+.container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+h1 {
+    color: #333;
+}
+input, select {
+    padding: 10px;
+    margin: 10px 0;
+    width: calc(100% - 22px);
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+button {
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #0056b3;
+}
+.result {
+    margin-top: 20px;
+    font-size: 1.2em;
+    color: #007BFF;
+}
