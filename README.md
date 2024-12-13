@@ -3,5 +3,5 @@ This is a simple calculator created with HTML, CSS, and JavaScript. It allows yo
 #Clone this repository to your computer:
 
    ```bash
-   git clone https://github.com/user/calculator.git
+   git clone https://github.com/wh4tisnet/Calculadora
    ```
